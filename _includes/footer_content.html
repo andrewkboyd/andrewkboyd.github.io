@@ -1,0 +1,33 @@
+{%- assign _author = site.author -%}
+
+<div>
+  <ul class="social-links">
+    {%- if _author.twitter -%}
+    <li title="Twitter">
+      <a class="button button--circle twitter-button" itemprop="sameAs" href="https://twitter.com/{{ _author.twitter }}" target="_blank">
+        <div class="icon">{%- include svg/twitter.svg -%}</div>
+      </a>
+    </li>
+    {%- endif -%}
+
+    {%- if _author.github -%}
+    <li title="Github">
+      <a class="button button--circle github-button" itemprop="sameAs" href="https://github.com/{{ _author.github }}" target="_blank">
+        <div class="icon">{%- include svg/github.svg -%}</div>
+      </a>
+    </li>
+    {%- endif -%}
+
+    {%- if _author.linkedin -%}
+    <li title="Linkedin">
+      <a class="button button--circle linkedin-button" itemprop="sameAs" href="https://www.linkedin.com/in/{{ _author.linkedin }}" target="_blank">
+        <div class="icon">{%- include svg/linkedin.svg -%}</div>
+      </a>
+    </li>
+    {%- endif -%}
+  </ul>
+</div>
+<div>
+  &copy; {{ _author.name }}
+</div>
+

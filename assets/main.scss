@@ -1,0 +1,26 @@
+---
+---
+
+@import "whiteglass";
+
+@mixin button() {
+  outline: none;
+  display: inline-block;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+
+.button {
+  @include button();
+}
+
+ul.social-links {
+  margin: 0;
+
+  li {
+    display: inline-block;
+    padding: 5px;
+    list-style: none;
+  }
+}
+
