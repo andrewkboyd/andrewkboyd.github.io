@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "The First Post!"
+date:   2019-08-06 15:41:48 -0400
+categories: intro
+---
+I plan to start releasing posts of my research and a library that I will use for reference and collected material.  I will target approximately one post per month to start, and see how it goes.  Topics will be on anything and everything technical; attack research, reverse engineering, systems administration / devops, software engineering, processes and procedures related to any of the previous topics.
+
+Stay tuned.

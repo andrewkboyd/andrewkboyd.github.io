@@ -1,5 +1,33 @@
 .man-section {
   padding-left: 2em;
+  margin-bottom: 1em;
+
+  .title, .degree {
+    font-weight: bold;
+  }
+
+  .minor {
+    font-style: italic;
+  }
+
+  .company {
+    clear: both;
+    display: block;
+    text-align: right;
+  }
+
+  .when {
+    color: slategray;
+    float: right;
+  }
+
+  .description {
+    margin: 1em;
+  }
+
+  .education {
+    margin: 1em 0;
+  }
 
   dl {
     dt {
@@ -10,4 +38,9 @@
       margin-left: 2em;
     }
   }
+}
+
+ul.posts {
+  list-style: none;
+  margin: 0;
 }

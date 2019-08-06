@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Andrew K. Boyd
+title: Honeypot Hacks
 description: >-
-  I am a Christ follower, husband, father, hacker, systems & software engineer, fisherman, and backpacker.  I desire to live a life that glorifies God; this is where I share that journey with all who might learn from me, or help me along the way.
+  I am a hacker, systems administrator, and software engineer.  Outside of work I am a Christ follower, husband, father, fisherman, and backpacker.  This site is where I share my research, development, and connect with people that want to learn from me, that I can learn from, or that need my help with their projects.
 baseurl: ""
-url: "https://andrewkboyd.me"
+url: "https://honeypothacks.com"
 
 author:
   name: Andrew K. Boyd
-  email: andrew@andrewkboyd.me
+  email: andrew@honeypothacks.com
   twitter: andrewkboyd
   github: andrewkboyd
   linkedin: andrewkboyd
