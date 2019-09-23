@@ -3,8 +3,6 @@ layout: page
 title: "APIs"
 ---
 
-- [API Check](https://github.com/BBVA/apicheck)
-- [Top 20 API Testing Tools](https://www.guru99.com/top-6-api-testing-tool.html<Paste>)
 - [Basic REST Testing w/ Burp](https://www.mindpointgroup.com/blog/pen-test/rest-assured-penetration-testing-rest-apis-using-burp-suite-part-1-introduction-configuration/)
 - [Simplifying API Testing w/ Swagger files](https://rhinosecuritylabs.com/application-security/simplifying-api-pentesting-swagger-files/)
 - [Authentication Schemes in REST APIs](https://payatu.com/blog_22)
@@ -38,3 +36,5 @@ title: "APIs"
 - [Syntribos](https://github.com/openstack/syntribos)
 - [Susanoo](https://github.com/ant4g0nist/Susanoo)
 - [Astra](https://github.com/flipkart-incubator/Astra)
+- [API Check](https://github.com/BBVA/apicheck)
+- [Top 20 API Testing Tools](https://www.guru99.com/top-6-api-testing-tool.html<Paste>)
