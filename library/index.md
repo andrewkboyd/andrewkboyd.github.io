@@ -9,3 +9,6 @@ title: "Research & Reference Library"
   - [SQLi](/library/data-store/SQLi/)
 - [Network Pivoting](/library/network-pivoting)
 - [Web](/library/web)
+  - [APIs](/library/web/apis)
+  - [WebLogic](/library/web/weblogic)
+  - [XXE](/library/web/xxe)
