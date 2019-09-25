@@ -13,3 +13,4 @@ title: "XXE"
 - [Blind XXE to root Read Access](https://honoki.net/2018/12/12/from-blind-xxe-to-root-level-file-read-access/)
 - [Automating Local DTD Discovery for XXE](https://blog.h3xstream.com/2019/07/automating-local-dtd-discovery-for-xxe.html)
 - [Exploiting XXE w/ local DTD files](https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/)
+- [Generic XXE Detection](https://christian-schneider.net/GenericXxeDetection.html#main)
