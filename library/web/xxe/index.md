@@ -14,3 +14,4 @@ title: "XXE"
 - [Automating Local DTD Discovery for XXE](https://blog.h3xstream.com/2019/07/automating-local-dtd-discovery-for-xxe.html)
 - [Exploiting XXE w/ local DTD files](https://mohemiv.com/all/exploiting-xxe-with-local-dtd-files/)
 - [Generic XXE Detection](https://christian-schneider.net/GenericXxeDetection.html#main)
+- [Acunetix XXE Vulnerabilities](https://www.acunetix.com/blog/articles/xml-external-entity-xxe-vulnerabilities/)
