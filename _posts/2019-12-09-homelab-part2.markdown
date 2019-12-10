@@ -53,7 +53,7 @@ It included:
 
 ### One Other Thing
 
-  My brother works in IT as well, and his company gave him an old HP IP KVM that they were retiring, so I have that in the rack as well.
+  A friend works in IT as well, and his company gave him an old HP IP KVM that they were retiring, so I have that in the rack as well.
 
   ![](/assets/images/homelabpt2/servers-front.jpg)
 
