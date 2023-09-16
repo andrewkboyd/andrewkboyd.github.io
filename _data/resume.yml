@@ -1,40 +1,74 @@
 jobs:
+  - title: Consultant 
+    company: PENConsultants, LLC
+    from: 2023
+    to: Present
+    description: >-
+      * Perform detailed and thorough application and network penetration tests<br/>
+      * Write blog posts<br/>
+      * Write and present test reports<br/>
+  - title: Owner & Climbing Arborist
+    company: Boyd Brothers Tree Care
+    from: 2020
+    to: 2023
+    description: >-
+      * Started and managed a tree care business<br/>
+      * Wrote estimates and performed all aspects of sales &amp; marketing<br/>
+      * Managed a full-time crew of 3 with supplemental crew as needed<br/>
+      * Performed tree prunings, removals and stump grinding<br/>
+  - title: Staff Cyber Security Engineer 
+    company: General Electric Co.
+    from: 2020
+    to: 2021
+    description: >-
+      * Implemented DevOps and systems automation strategies for a large network access product serving 200K+ users.<br/>
+      * performed code reviews<br/>
+      * ensured test coverage<br/>
+      * wrote Ansible playbooks<br/>
+      * Hashicorp Vault integration
   - title: Sr Cyber Security Researcher (Red Team)
     company: General Electric Co.
     from: 2018
-    to: Present
+    to: 2020
     description: >-
-      As a member of the Red Team I assess enterprise defense, detection, and response capabilities.  This involves many tactics, including web application exploitation, command and control infrastructure development and maintenance, malware development, application reverse engineering, and client side detection evasion.
+      * Assessed enterprise defense, detection, and response capabilities.  <br/>
+      * web application exploitation<br/>
+      * C2 infrastructure automation<br/>
+      * malware development<br/>
+      * reverse engineering<br/>
+      * EDR evasion.
   - title: Staff Software Engineer
     company: General Electric Co.
     from: 2016
     to: 2018
     description: >-
-      While working on this team, I was given the opportunity architect and develop network access software service 200K+ users.  This role included the architecture and unification of client-side applications across platforms, and exploring methods, programming languages, and processes to unify the client and server side development teams tactically.
+      * Architected and developed network access software servicing 200K+ users<br/>
+      * Designed and unified client-side applications across platforms
   - title: Sr Software Engineer
     company: General Electric Co.
     from: 2014
     to: 2016
     description: >-
-      In this initial role developing for GE, I was introduced to client-side developemnt of network security software.  This enabled me to dive deep into network security and methods for securing large systems, while enabling seamless access for users.  As I learned from my peers and grew in my role, I eventually began to influence the architecture of the greater network access system, moving into an expanded role of leading the client development teams, and coordinating development with server teams.
+      * macOS application development for network access software<br/>
+      * enabled secure, seamless remote access for employees and users
   - title: Advanced Programmer
     company: C2 Media Production Group
     from: 2013
     to: 2014
     description: >-
-      At C2, I took already developed HTML, CSS, & JavaScript, and implemented the code in various ASP.NET Content Management Systems.  I also assisted in the development of experimental projects using NodeJS.
+      * implemented Content Management Systems in ASP.NET<br/>
+      * worked with various other technologies to test and develop projects outside the main service (Node.js, C++)
   - title: Web Application Developer
     company: PCR, Inc.
     from: 2011
     to: 2013
     description: >-
-      PCR, Inc. offered me my first professional role as a developer, and gave me the oppurtunity and lattitude to experiment with methods such as Test Driven Development.  My manager coached and encouraged me to develop and test new ideas.  I also had the privilege of training our clients on how to use our software, while being one of the core developers on the new, web-based version of the telecommunications management platform.
+      * Implemented Test Driven Development (TDD) for a large PHP application
   - title: Software Development Intern
     company: Center for Advanced Public Safety (CAPS)
     from: 2009
     to: 2010
     description: >-
-      This was my first taste of professional development.  I began with front-end widgets in Flash using MXML and ActionScript.  I also developed reports using MSSQL.  I was coached by other developers my college professor to dive in and begin to figure out what it meant to be a full-time developer.
 school:
   - degree: MS in Cyber Security
     institution: Liberty University
